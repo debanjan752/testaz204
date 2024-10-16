@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\Testapplication.exe
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\appsettings.json
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\Testapplication.dll
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\Testapplication.deps.json
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\Testapplication.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Temp-C#\Testapplication\bin\Publish\Testapplication.pdb
